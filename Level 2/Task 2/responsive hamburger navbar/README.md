@@ -12,3 +12,20 @@ This project demonstrates a **mobile-friendly responsive navigation menu** using
 - Simple and accessible layout
 
 ---
+
+## 🚀 Live Demo
+
+To see the menu in action:
+1. Open `index.html` in your browser.
+2. Resize the browser window to see it switch from a horizontal navbar to a collapsible hamburger menu.
+
+---
+
+## 💡 Features
+
+- ✅ Hamburger icon toggle using CSS `:checked` selector
+- ✅ Navigation links collapse neatly into a vertical list on small screens
+- ✅ No external libraries or JavaScript needed
+- ✅ Responsive and minimal
+
+---
