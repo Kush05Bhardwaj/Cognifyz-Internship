@@ -14,5 +14,4 @@ This project showcases a beautifully styled, responsive card layout using the [U
 
 ---
 
-## 🧩 Project Structure
 
