@@ -14,4 +14,22 @@ This project showcases a beautifully styled, responsive card layout using the [U
 
 ---
 
+## 💡 Features
+
+- ✅ Responsive layout with UIkit Grid
+- ✅ Animated card hover effect (`uk-card-hover`, `uk-transition-toggle`)
+- ✅ UIkit Button and Typography
+- ✅ Clean spacing using UIkit classes (`uk-margin-top`, `uk-box-shadow-large`, etc.)
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone the project.
+2. Open `index.html` in your browser.
+3. You’ll see a centered card with a dragon image and details.
+
+---
+
+
 
