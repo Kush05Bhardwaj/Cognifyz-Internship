@@ -29,7 +29,7 @@ Welcome to the submission folder for the **Web Developer Internship** at Cognify
 - ✅ Display a **greeting alert** message based on current time
 - ✅ Build a **simple calculator** to add two numbers
 
-> **Technologies:** Vanilla JavaScript  
+> **Technologies:** JavaScript  
 > **Focus:** DOM manipulation, functions, events, conditional logic.
 
 ---
@@ -82,15 +82,6 @@ Welcome to the submission folder for the **Web Developer Internship** at Cognify
 
 > **Technologies:** HTML, CSS  
 > **Focus:** Layout design, branding, call-to-action strategy
-
----
-
-## 🔗 Deployment (Optional)
-
-You can host each level or task on:
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://netlify.com)
-- [Vercel](https://vercel.com)
 
 ---
 
